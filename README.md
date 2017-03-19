@@ -13,5 +13,6 @@ Development of CM13 for SM-A310F (Samsung A3 2016)
 **Informations**
 - Original creator : _@aapav01_
 - Kitchen used for extracts and compilations : _ASSEYYED Kitchen_
+- Pre-rooted + Busybox added
 
 _Thanks for helping !_
